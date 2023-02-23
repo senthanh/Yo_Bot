@@ -48,7 +48,7 @@
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/miraipr0ject/miraiv2.git miraiv2
+    git clone https://github.com/senthanh/yobot
     ``` 
 
 4. Cài đặt các package cần thiết
@@ -92,7 +92,7 @@
       ```
       2. Để vận hành bot, bạn chỉ cần nhập vào termux
       ```sh
-      cd ./miraiv2 && npm start
+      cd ./yobot && npm start
       ```
 
 #### 💬Linux/ubuntu
@@ -107,7 +107,7 @@
 
 2. Clone source code của bot bằng cách nhập vào terminal
     ```sh
-    git clone https://github.com/miraipr0ject/miraiv2.git miraiv2
+    git clone https://github.com/senthanh/yobot
     ```
 
 3. Cài đặt các package cần thiết
