@@ -12,7 +12,7 @@
 </p>
   
 
-<img align="right" width=300px alt="shinchan" src="shinchan.gif" />
+<img align="right" width=370px alt="shinchan" src="shinchan.gif" />
 
 <!-- INSTALLATION -->
 ## Installation
